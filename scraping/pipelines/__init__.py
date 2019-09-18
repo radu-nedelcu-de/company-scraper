@@ -1,0 +1,4 @@
+from scraping.pipelines.text_extractor import TextExtractor
+from scraping.pipelines.spacy_entity_extractor import SpacyEntityExtractor
+from scraping.pipelines.dbpedia_extractor import DbPediaExtractor
+from scraping.pipelines.dump_item import DumpItem
